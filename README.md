@@ -1,9 +1,7 @@
 # NaturalDepthEdges
-This repository contains the raw data and example code for the analyses described in 
+This repository contains the raw data and example code for the analyses described in:
 
-Natural statistics of depth edges modulate perceptual stability
-Basgoze, White, Burge & Cooper
-Journal of Vision, 2020
+**Basgoze, White, Burge & Cooper. Natural statistics of depth edges modulate perceptual stability. Journal of Vision, 2020**
 
 These resources are organized into separate folders:
 
@@ -62,7 +60,7 @@ stats = for each patch, we provide summary values averaged within the regions of
 
 ### exp1_responses.mat
 
-exp1 = 
+exp1 = data from Experiment 1
 
 * subj [644x1]				subject number
 * patch [644x1] 			patch number
@@ -72,7 +70,7 @@ exp1 =
 
 ### exp2_responses.mat
 
-exp2 = 
+exp2 = data from Experiment 2
 
 * subj [644x1]				subject number
 * patch [644x1] 			patch number
@@ -85,6 +83,6 @@ exp2 =
 
 This folder contains scripts for running the main analyses presented in the paper:
 
-scenestats_run_analysis				runs the scene statistics analysis
-exp1_run_analysis					runs the analysis for Experiment 1
-exp2_run_analysis					runs the analysis for Experiment 2
+* scenestats_run_analysis				runs the scene statistics analysis
+* exp1_run_analysis					runs the analysis for Experiment 1
+* exp2_run_analysis					runs the analysis for Experiment 2
