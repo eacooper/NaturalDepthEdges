@@ -1,6 +1,7 @@
 # NaturalDepthEdges
 This repository contains the raw data and example code for the analyses described in:
 [Basgoze, White, Burge & Cooper. Natural statistics of depth edges modulate perceptual stability. Journal of Vision, 2020](https://www.biorxiv.org/content/10.1101/2020.04.05.026724v1)
+
 These resources are organized into separate folders:
 
 ## patch_images - stimuli
