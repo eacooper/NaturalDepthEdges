@@ -8,7 +8,7 @@ This folder contains preview visualizations of each of the 215 natural stereo im
 The luminance images, depth maps, and region of interest masks are saved in a png file for easy visualization.
 These are in .png format here, but are also available as Matlab data in the 'patches' struct in patch_data.m described below.
 
-## scripts ## Scripts to run the analyses described in the paper:
+## scripts
 ### scenestats_run_analysis.m 
 runs the scene statistics analysis
 ### exp1_run_analysis
